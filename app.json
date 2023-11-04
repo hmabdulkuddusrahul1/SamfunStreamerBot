@@ -7,9 +7,9 @@
         "livestream",
         "rtmps"
     ],
-    "success_url": "https://github.com/Samfun75/SamfunStreamerBot",
-    "website": "https://github.com/Samfun75/SamfunStreamerBot",
-    "repository": "https://github.com/Samfun75/SamfunStreamerBot",
+    "success_url": "https://github.com/hmabdulkuddusrahul1/SamfunStreamerBot",
+    "website": "https://github.com/hmabdulkuddusrahul1/SamfunStreamerBot",
+    "repository": "https://github.com/hmabdulkuddusrahul1/SamfunStreamerBot",
     "env": {
         "ENV": {
             "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
